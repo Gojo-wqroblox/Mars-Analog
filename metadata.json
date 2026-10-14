@@ -1,0 +1,6 @@
+{
+  "name": "NULLG: Interplanetary Site Scout",
+  "description": "NASA Space Apps planetary analog reconnaissance dashboard identifying Earth sites that mirror Mars and Moon surface environments with AI Surface Analytics and radar telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
